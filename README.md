@@ -1,1 +1,1 @@
-Beginner to intermediate automation python projects
+**BEGINNER TO INTERMEDIATE AUTOMATION PYTHON PROJECTS**
